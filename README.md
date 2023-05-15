@@ -74,3 +74,4 @@ README〜ER 図作成：5/24 〆切
 - JavaScript
 - Bootstrap
 - heroku
+- スクレイピング（ワインデータ）
