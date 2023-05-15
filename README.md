@@ -69,7 +69,7 @@ README〜ER 図作成：5/24 〆切
 
 ■ 技術選定
 
-- Rails6
+- Rails7
 - postgresql
 - JavaScript
 - Bootstrap
