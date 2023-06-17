@@ -1,29 +1,3 @@
-<<<<<<< HEAD
-# README
-
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-=======
 # service_name
 
 ■ サービス概要
@@ -107,4 +81,3 @@ https://www.figma.com/file/Y7WVMUuSJFesHjLFJgbqt1/%E7%94%BB%E9%9D%A2%E9%81%B7%E7
 
 ■ ER 図
 https://drive.google.com/file/d/1lT6RuaZaLMpydylBcTNh16Ai-lQ8D4sx/view?usp=sharing
->>>>>>> 4f1c6de8043d5720e82c5310dbdd6ed3621d4bc2
