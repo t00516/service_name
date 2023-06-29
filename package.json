@@ -14,6 +14,25 @@
     "esbuild": "^0.18.4"
   },
   "devDependencies": {
-    "sass": "^1.63.6"
-  }
+    "sass": "^1.63.6",
+    "webpack": "^5.88.1",
+    "webpack-cli": "^5.1.4"
+  },
+  "description": "■ サービス概要",
+  "version": "1.0.0",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/t00516/service_name.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/t00516/service_name/issues"
+  },
+  "homepage": "https://github.com/t00516/service_name#readme"
 }
