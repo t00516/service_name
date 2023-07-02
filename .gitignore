@@ -18,6 +18,12 @@
 !/tmp/pids/
 !/tmp/pids/.keep
 
+# Ignore uploaded files in development.
+/storage/*
+!/storage/.keep
+/tmp/storage/*
+!/tmp/storage/
+!/tmp/storage/.keep
 
 /public/assets
 
@@ -28,8 +34,3 @@
 !/app/assets/builds/.keep
 
 /node_modules
-app/assets/images/.keep
-app/controllers/concerns/.keep
-app/models/concerns/.keep
-lib/assets/.keep
-tmp/.keep
